@@ -1,40 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Harshprabha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20AI%20Safety%20Research&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Harshprabha&fontSize=58&fontColor=F0FFF0&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20AI%20Safety%20Research&descAlignY=55&descSize=17&color=0:0B3D3D,50:0F766E,100:2DD4BF"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Generative+AI+Research+Intern+%40+MacroedTech;AI+Safety+%26+Alignment+Research+Intern+%40+ACM;Building+LLM+Evaluation+%26+Compliance+Frameworks;President%2C+Youth+Economy+Lab+%40+IGDTUW" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Generative+AI+Research+Intern+%40+MacroedTech;AI+Safety+%26+Alignment+Research+Intern+%40+ACM;Building+LLM+Evaluation+%26+Compliance+Frameworks;President%2C+Youth+Economy+Lab+%40+IGDTUW" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/B.Tech-ECE%20(AI%20Specialisation)-0F766E?style=flat-square&labelColor=07211F&color=134E4A"/>
+<img src="https://img.shields.io/badge/IGDTUW-Delhi-0F766E?style=flat-square&labelColor=07211F&color=0D9488"/>
+<img src="https://img.shields.io/badge/CGPA-8.52%2F10-0F766E?style=flat-square&labelColor=07211F&color=14B8A6"/>
+<img src="https://img.shields.io/badge/📍-New%20Delhi,%20India-0F766E?style=flat-square&labelColor=07211F&color=2DD4BF"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-ECE%20(AI%20Specialisation)-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/IGDTUW-Delhi-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/CGPA-8.52%2F10-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍_Location-New%20Delhi,%20India-9333EA?style=flat-square&labelColor=1a1a2e"/>
+<a href="https://www.linkedin.com/in/harshprabha-30b87b376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-134E4A?style=for-the-badge&logo=linkedin&logoColor=F0FFF0&labelColor=07211F"/></a>
+<a href="mailto:harshprabha95@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0F766E?style=for-the-badge&logo=gmail&logoColor=F0FFF0&labelColor=07211F"/></a>
+<a href="https://github.com/SoftSage07"><img src="https://img.shields.io/badge/GitHub-Explore-0D9488?style=for-the-badge&logo=github&logoColor=F0FFF0&labelColor=07211F"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=vercel&logoColor=07211F&labelColor=07211F"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/harshprabha-30b87b376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:harshprabha95@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/SoftSage07"><img src="https://img.shields.io/badge/GitHub-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SoftSage07&style=flat-square&color=8b5cf6&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/SoftSage07?style=flat-square&color=a855f7&labelColor=1a1a2e&label=Followers"/>
-<img src="https://img.shields.io/github/stars/SoftSage07?style=flat-square&color=9333ea&labelColor=1a1a2e&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=SoftSage07&style=flat-square&color=0d9488&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/SoftSage07?style=flat-square&color=14b8a6&labelColor=07211F&label=Followers"/>
+<img src="https://img.shields.io/github/stars/SoftSage07?style=flat-square&color=2dd4bf&labelColor=07211F&label=Stars"/>
 
 </div>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-## 🟣 About Me
+## 🦚 About Me
 
 ```yaml
 name: "Harshprabha"
@@ -50,73 +48,67 @@ focus:
 
 I'm an engineering student and researcher building at the intersection of **LLM evaluation, AI safety, and applied full-stack engineering**. My work centers on making model behavior legible — measuring the gap between what models *say* they'll do and what they *actually* do, and probing whether reasoning traces reflect genuine awareness rather than post-hoc justification.
 
-Alongside research, I ship production-shaped systems: agentic evaluation harnesses, real-time financial intelligence pipelines, and civic-tech platforms — always with an engineering mindset that treats reproducibility, testing, and clean architecture as non-negotiable.
+Alongside research, I ship production-shaped systems: agentic evaluation harnesses, real-time financial intelligence pipelines, and civic-tech platforms — with an engineering mindset that treats reproducibility, testing, and clean architecture as non-negotiable.
 
-**🎯 Open To:** AI Safety Research Roles · Research Internships · Technical Collaborations · Full-Stack / AI Engineering Roles
+**Open To:** AI Safety Research Roles · Research Internships · Technical Collaborations · Full-Stack / AI Engineering Roles
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 Tech Stack
+## 🦚 Tech Stack
 
 <div align="center">
 
 **Languages**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp&theme=dark"/>
 
-**AI / ML / LLM Systems**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1a2e)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1a2e)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e)
-![Groq](https://img.shields.io/badge/Groq_API-7C3AED?style=flat-square&labelColor=1a1a2e)
-![Gemini](https://img.shields.io/badge/Gemini_API-8B5CF6?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1a1a2e)
-![Claude](https://img.shields.io/badge/Claude_API-A855F7?style=flat-square&labelColor=1a1a2e)
-![Ollama](https://img.shields.io/badge/Ollama-9333EA?style=flat-square&labelColor=1a1a2e)
-
 **Frontend**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
 
 **Backend & Databases**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,sqlite&theme=dark"/>
 
 **Cloud, DevOps & Tooling**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,streamlit,vercel&theme=dark"/>
+
+**AI / ML / LLM Systems**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-134E4A?style=flat-square&logo=pytorch&logoColor=F0FFF0&labelColor=07211F"/>
+<img src="https://img.shields.io/badge/HuggingFace-134E4A?style=flat-square&logo=huggingface&logoColor=F0FFF0&labelColor=07211F"/>
+<img src="https://img.shields.io/badge/scikit--learn-134E4A?style=flat-square&logo=scikit-learn&logoColor=F0FFF0&labelColor=07211F"/>
+<img src="https://img.shields.io/badge/NumPy-134E4A?style=flat-square&logo=numpy&logoColor=F0FFF0&labelColor=07211F"/>
+<img src="https://img.shields.io/badge/Pandas-134E4A?style=flat-square&logo=pandas&logoColor=F0FFF0&labelColor=07211F"/>
+<img src="https://img.shields.io/badge/Groq_API-0F766E?style=flat-square&labelColor=07211F&color=0F766E"/>
+<img src="https://img.shields.io/badge/Gemini_API-0D9488?style=flat-square&logo=googlegemini&logoColor=F0FFF0&labelColor=07211F"/>
+<img src="https://img.shields.io/badge/Claude_API-14B8A6?style=flat-square&labelColor=07211F"/>
+<img src="https://img.shields.io/badge/Ollama-2DD4BF?style=flat-square&labelColor=07211F"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 AI / ML Expertise
+## 🦚 AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| **LLM Evaluation & Benchmarking** | ⭐⭐⭐⭐⭐ | Multi-condition experimental design, adversarial prompt variants, judge-model scoring pipelines |
-| **Chain-of-Thought Faithfulness** | ⭐⭐⭐⭐⭐ | Scratchpad reasoning analysis, oversight-awareness rubrics, causal 4-condition designs |
-| **Agentic Behavior Analysis** | ⭐⭐⭐⭐ | Stated-vs-actual compliance gaps, tool-call execution auditing, behavioral-shift metrics |
-| **Prompt Engineering** | ⭐⭐⭐⭐⭐ | Zero-shot, few-shot, CoT, anchor, and role-based strategy benchmarking |
-| **NLP / Sentiment Systems** | ⭐⭐⭐⭐ | FinBERT pipelines, multi-source aggregation, reliability-weighted scoring |
-| **RAG & Multi-Step Reasoning** | ⭐⭐⭐⭐ | Literature-grounded pipeline design, retrieval-augmented synthesis |
-| **Full-Stack AI Product Engineering** | ⭐⭐⭐⭐ | End-to-end systems from model inference to production dashboards |
+| **LLM Evaluation & Benchmarking** | ●●●●● | Multi-condition experimental design, adversarial prompt variants, judge-model scoring pipelines |
+| **Chain-of-Thought Faithfulness** | ●●●●● | Scratchpad reasoning analysis, oversight-awareness rubrics, causal 4-condition designs |
+| **Agentic Behavior Analysis** | ●●●●○ | Stated-vs-actual compliance gaps, tool-call execution auditing, behavioral-shift metrics |
+| **Prompt Engineering** | ●●●●● | Zero-shot, few-shot, CoT, anchor, and role-based strategy benchmarking |
+| **NLP / Sentiment Systems** | ●●●●○ | FinBERT pipelines, multi-source aggregation, reliability-weighted scoring |
+| **RAG & Multi-Step Reasoning** | ●●●●○ | Literature-grounded pipeline design, retrieval-augmented synthesis |
+| **Full-Stack AI Product Engineering** | ●●●●○ | End-to-end systems from model inference to production dashboards |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 Featured Projects
+## 🦚 Featured Projects
 
 <details open>
 <summary><b>🔬 Stated vs. Actual Compliance — LLM Agentic Evaluation Framework</b></summary>
@@ -188,11 +180,9 @@ An end-to-end NLP pipeline turning multi-source financial news into a live, reli
 
 </details>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 Experience
+## 🦚 Experience
 
 **Generative AI Research Intern** · MacroedTech
 `May 2026 – Present · Remote`
@@ -248,104 +238,50 @@ Contributing to LLM behavioral evaluation research probing reasoning faithfulnes
 
 `Developer Advocacy` `Event Engineering` `Open Source`
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 Achievements
+## 🦚 Certifications & Recognition
 
 <div align="center">
 
-| Recognition | Details |
-|:--|:--|
-| 🏆 **BlueDot AGI Safety Strategy** | Completed, 2026 |
-| 🥈 **HackwithMAIT 6.0 — National Finalist** | Top 10 of 581 teams (Top 1.7%), 2025 |
-| 🎓 **Harvard CS50P** | Introduction to Programming with Python, 2025 |
-| ☁️ **GDG on Campus — AI/ML Study Jams** | 2025 |
-| ☁️ **Google Cloud Study Jams** | 2025 |
+| Provider | Credential | Year |
+|:--|:--|:--:|
+| **BlueDot Impact** | AGI Safety Strategy | 2026 |
+| **HackwithMAIT** | National Finalist — Top 10 of 581 teams (Top 1.7%) | 2025 |
+| **Harvard University** | CS50P — Introduction to Programming with Python | 2025 |
+| **Google Developer Groups** | GDG on Campus — AI/ML Study Jams | 2025 |
+| **Google Cloud** | Google Cloud Study Jams | 2025 |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 Certifications
+## 🦚 GitHub Analytics
 
 <div align="center">
 
-**Google Cloud**
+<img src="https://github-readme-stats.vercel.app/api?username=SoftSage07&show_icons=true&hide_border=true&title_color=2DD4BF&icon_color=0F766E&text_color=F0FFF0&bg_color=07211F&ring_color=0D9488&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=SoftSage07&hide_border=true&background=07211F&ring=2DD4BF&fire=0D9488&currStreakLabel=2DD4BF&sideLabels=F0FFF0&currStreakNum=F0FFF0&sideNums=F0FFF0&dates=94A3A3" width="48%"/>
 
-![GCP](https://img.shields.io/badge/Google_Cloud_Study_Jams-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftSage07&layout=compact&hide_border=true&title_color=2DD4BF&text_color=F0FFF0&bg_color=07211F&langs_count=8" width="48%"/>
 
-**Google Developer Groups**
-
-![GDG](https://img.shields.io/badge/GDG_on_Campus-AI%2FML_Study_Jams-A855F7?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1a2e)
-
-**Harvard University**
-
-![Harvard](https://img.shields.io/badge/CS50P-Python_Programming-8B5CF6?style=for-the-badge&logo=harvard&logoColor=white&labelColor=1a1a2e)
-
-**BlueDot Impact**
-
-![BlueDot](https://img.shields.io/badge/AGI_Safety_Strategy-7C3AED?style=for-the-badge&labelColor=1a1a2e)
+<sub>Live GitHub widgets — if a card shows blank, refresh the page; the underlying service occasionally needs a moment to render.</sub>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 GitHub Analytics
+## 🦚 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoftSage07&show_icons=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&ring_color=7C3AED" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=SoftSage07&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftSage07&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoftSage07&hide_border=true&bg_color=07211F&color=2DD4BF&line=0F766E&point=F0FFF0&area=true&area_color=0D9488"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SoftSage07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoftSage07&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=c9d1d9"/>
-
-</div>
-
-<br/>
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SoftSage07/SoftSage07/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 Current Focus
+## 🦚 Current Focus
 
 ```yaml
 learning:
@@ -369,29 +305,25 @@ open_to:
   - Full-stack / AI engineering roles
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:134E4A,50:0F9B8E,100:2DD4BF" width="100%"/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-## 🟣 Connect
+## 🦚 Connect
 
 <div align="center">
 
-<a href="mailto:harshprabha95@gmail.com"><img src="https://img.shields.io/badge/Gmail-harshprabha95%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.linkedin.com/in/harshprabha-30b87b376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/SoftSage07"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:harshprabha95@gmail.com"><img src="https://img.shields.io/badge/Gmail-harshprabha95%40gmail.com-134E4A?style=for-the-badge&logo=gmail&logoColor=F0FFF0&labelColor=07211F"/></a>
+<a href="https://www.linkedin.com/in/harshprabha-30b87b376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=for-the-badge&logo=linkedin&logoColor=F0FFF0&labelColor=07211F"/></a>
+<a href="https://github.com/SoftSage07"><img src="https://img.shields.io/badge/GitHub-Follow-0D9488?style=for-the-badge&logo=github&logoColor=F0FFF0&labelColor=07211F"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=vercel&logoColor=07211F&labelColor=07211F"/></a>
 
 </div>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 <div align="center">
 
-*"Evaluation infrastructure is the prerequisite, not the afterthought, of safe AI deployment."*
+<i>"Evaluation infrastructure is the prerequisite, not the afterthought, of safe AI deployment."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2DD4BF,50:0F9B8E,100:0B3D3D"/>
 
 </div>
